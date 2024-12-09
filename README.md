@@ -1,4 +1,4 @@
-# sherlynmaecordez
+# sherlyncordez
 
 <bold>NAME:</bold></br> Sherlyn Mae Cordez </br></br>
 <h2><bold>EDUCATION: </bold></h2></br>
