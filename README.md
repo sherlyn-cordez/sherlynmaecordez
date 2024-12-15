@@ -13,4 +13,4 @@ Krus Na Ligas High School - Information Technology TVL Track</br></br>
 
 [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=DECD1AECC7EC409A30C788D766269DD8753027820A43EA88045DD0DB9A841D78)</br>
 
-
+[Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D506876B1D1C6F2333126B81AC730F27F994D65C6D8DF4CF00E293B84E7C14E9)</br>
